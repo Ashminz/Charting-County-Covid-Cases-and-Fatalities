@@ -2,7 +2,7 @@
 FORT BEND COUNTY COVID-19 CONFIRMED CASES AND FATALITIES
 # Overview
 We are in the pandemic era right now.
-* The visualization gives a clear explanation of the count of COVID cases and fatalities in FORT BEND area from March 2020 to May 2021. We will also get an idea of how deadly was COVID in the specified area.
+* The visualization gives a clear explanation of the count of COVID cases and fatalities in FORT BEND COUNTY(Sugarland, Texas) from March 2020 to May 2021. We will also get an idea of how deadly was COVID in the specified area.
 * The datasets was available in Texas Health site
 https://dshs.texas.gov/coronavirus/TexasCOVID19DailyCountyCaseCountData.xlsx
 
